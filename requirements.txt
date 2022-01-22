@@ -1,6 +1,6 @@
-Note: - Create an account in wolframalpha and use your own api key in 7Chats.py line 32 and 375
+Use your own api key in 7Chats.py line 32 and 375
       
-      - Enter the 7Chatsapp location location in 7Chats.py file on line 532
+- Enter the 7Chatsapp location location in 7Chats.py file on line 532
 
 pip install pyttsx3
 pip install opencv-python
